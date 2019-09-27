@@ -1,4 +1,5 @@
 # recurrent_neural_networks
+This repository contains a collection of deep recurrent neural networks exercises.
 
 ## Projects
 * [TV Script Generation](https://github.com/lorand1984/recurrent_neural_networks/tree/master/tv_script_generator): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
